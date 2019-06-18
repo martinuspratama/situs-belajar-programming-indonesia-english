@@ -1,0 +1,66 @@
+1.Achmatim	:	http://achmatim.net	
+2.Bahasaweb	:	https://bahasaweb.co	
+3.Belajar Koding	:	https://belajarkoding.ne	
+4.Belajar Koding	:	https://belajarkoding.net	
+5.Belajarnge	:	http://www.belajarnge.web.i	
+6.Bercode	:	http://bercode.blogspot.co.id	
+7.Blogkarismaulana	:	https://blogkarismaulana.blogspot.co.i	
+8.CodeAcademy	:	https://www.codecademy.co	
+9.CodeAvengers	:	https://www.codeavengers.co	
+10.Codepolitan	:	https://www.codepolitan.com	
+11.Codesaya	:	https://codesaya.com	
+12.CodeSchool	:	https://www.codeschool.co	
+13.Compas-e	:	http://compas-e.blogspot.co.i	
+14.CumaCoder	:	http://www.cumacoder.com/	
+15.DCC DP ORG	:	http://www.dcc-dp.org/	
+16.Defandaky	:	http://defandaky.blogspot.co.id	
+17.Dekamulyana	:	http://dekamulyana.co	
+18.Developer Mozilla	:	https://developer.mozilla.org	
+19.Dte	:	http://www.dte.web.i	
+20.Dumetschool	:	https://www.dumetschool.co	
+21.Duniailkom	:	http://www.duniailkom.com	
+22.EbookFree79	:	https://ebookfree79.blogspot.co.i	
+23.Egan-jy	:	http://egan-jy.blogspot.co.i	
+24.Elcicko	:	https://elcicko.com	
+25.Farisiahmad	:	http://farisiahmad.com	
+26.HakKoBlogs	:	http://www.hakkoblogs.com/	
+27.Ilmu Kita	:	http://ilmukita.or	
+28.Ilmuwebsite	:	https://www.ilmuwebsite.com	
+29.Jagocoding	:	http://www.jagocoding.com	
+30.Junedalbughisy	:	http://junedalbughisy.blogspot.co.id	
+31.Kioscoding	:	http://www.kioscoding.co	
+32.Koding Club	:	koding.club/	
+33.Koding Indonesia	:	http://www.kodingindonesia.com	
+34.Komputer67	:	https://komputer67.blogspot.co.id	
+35.LearnPythonTheHardway :	https://learnpythonthehardway.org/book	
+36.Limcoding	:	http://limcoding.blogspot.co.i	
+37.Linkedin	:	https://www.linkedin.com	
+38.Makinrajin	:	http://makinrajin.co	
+39.Media Kreatif	:	http://media-kreatif.com	
+40.Mkhuda	:	https://mkhuda.co	
+41.My Notes Code	:	https://www.mynotescode.com	
+42.MyPHPTutorials	:	http://www.myphptutorials.co	
+43.Nyekrip	:	http://www.nyekrip.co	
+44.Onphpid	:	https://www.onphpid.com	
+45.Petanikode	:	https://www.petanikode.co	
+46.Pindexain	:	http://www.pindexain.co	
+47.Primasaja	:	http://www.primasaja.co	
+48.Prothelon	:	http://prothelon.co	
+49.Riobermano	:	https://www.riobermano.co	
+50.Sekolahkoding	:	https://sekolahkoding.com	
+51.Setiawantopan	:	https://setiawantopan.wordpress.com	
+52.Suckittrees	:	http://suckittrees.com	
+53.Suckittress	:	http://suckittrees.com" target="_blank	
+54.Teamtreehouse	:	https://teamtreehouse.co	
+55.Tersenyum Untukku	:	http://tersenyumuntuku.blogspot.co.id	
+56.Tutorial Pedia	:	https://www.tutorialpedia.net	
+57.Tutorial Web Design	:	http://www.tutorial-webdesign.com	
+58.TutorialPoint	:	https://www.tutorialspoint.com" target="_blank	
+59.Tutorials Point	:	https://www.tutorialspoint.com	
+60.W3ii	:	http://www.w3ii.co	
+61.W3School	:	https://www.w3schools.com	
+62.Warungprogram	:	http://www.warungprogram.co	
+63.Webdesign.tutsplus	:	https://webdesign.tutsplus.com	
+64.Websitecompletecoding :	http://websitecompletecoding.blogspot.co.id	
+65.Willyardyprasetyo	:	https://willyardyprasetyo.com	
+66.Yuk Coding	:	https://yukcoding.blogspot.com
